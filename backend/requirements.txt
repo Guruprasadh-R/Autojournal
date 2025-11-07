@@ -1,0 +1,6 @@
+flask
+flask-cors
+transformers>=4.30.0
+torch       # CPU or GPU build; install CPU wheel if needed
+sentencepiece
+tqdm

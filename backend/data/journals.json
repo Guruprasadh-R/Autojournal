@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Today was an amazing day! I spent time with my friends, laughed a lot, and felt so grateful for everything I have.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.9400362372398376,
+      "surprise": 0.047909196466207504,
+      "neutral": 0.006253746338188648,
+      "sadness": 0.003074170555919409,
+      "anger": 0.0014709315728396177,
+      "fear": 0.0006435054820030928,
+      "disgust": 0.0006120934849604964
+    },
+    "tip": "I felt so grateful for everything I have.",
+    "timestamp": "2025-10-30T14:30:56.056886Z"
+  },
+  {
+    "text": "I tried my best, but things didn’t go the way I hoped. It feels heavy, and I just need some time alone to think.",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.9373796582221985,
+      "neutral": 0.025033580139279366,
+      "disgust": 0.020832333713769913,
+      "fear": 0.00974196009337902,
+      "surprise": 0.002849345561116934,
+      "anger": 0.0027862684801220894,
+      "joy": 0.0013767639175057411
+    },
+    "tip": "I just need some time alone to think.",
+    "timestamp": "2025-10-30T14:31:12.572758Z"
+  },
+  {
+    "text": "I made myself a cup of coffee a\nnd sat by the window watching the rain. It was quiet and peaceful.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.7999861240386963,
+      "neutral": 0.11747340857982635,
+      "sadness": 0.06060142070055008,
+      "disgust": 0.010502568446099758,
+      "surprise": 0.005782881751656532,
+      "anger": 0.0032677925191819668,
+      "fear": 0.0023858279455453157
+    },
+    "tip": "I sat by the window watching the rain.",
+    "timestamp": "2025-10-30T14:31:45.592758Z"
+  },
+  {
+    "text": "My presentation is tomorrow and I can’t stop thinking about it. My heart races every time I imagine standing in front of everyone.",
+    "emotion": "fear",
+    "scores": {
+      "fear": 0.5354776382446289,
+      "surprise": 0.3243875205516815,
+      "anger": 0.07135044038295746,
+      "neutral": 0.03673037886619568,
+      "sadness": 0.01805146038532257,
+      "joy": 0.00956791266798973,
+      "disgust": 0.004434644710272551
+    },
+    "tip": "I can’t stop thinking about it.",
+    "timestamp": "2025-10-30T14:32:04.188884Z"
+  },
+  {
+    "text": "I made myself a cup of coffee and sat by the window watching the rain. It was quiet and peaceful.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.8021494150161743,
+      "neutral": 0.10980210453271866,
+      "sadness": 0.05388443544507027,
+      "disgust": 0.02325923927128315,
+      "anger": 0.005602249875664711,
+      "fear": 0.0034411668311804533,
+      "surprise": 0.0018615194130688906
+    },
+    "tip": "I sat by the window watching the rain.",
+    "timestamp": "2025-10-30T14:32:14.320474Z"
+  },
+  {
+    "text": "I made myself a cup of coffee and sat by the window watching the rain. It was quiet and peaceful.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.8021494150161743,
+      "neutral": 0.10980210453271866,
+      "sadness": 0.05388443544507027,
+      "disgust": 0.02325923927128315,
+      "anger": 0.005602249875664711,
+      "fear": 0.0034411668311804533,
+      "surprise": 0.0018615194130688906
+    },
+    "tip": "The user feels joy. Give a short and helpful piece of advice in one or two sentences.",
+    "timestamp": "2025-10-30T14:34:57.047100Z"
+  },
+  {
+    "text": "I made myself a cup of coffee and sat by the window watching the rain. It was quiet and peaceful.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.8021494150161743,
+      "neutral": 0.10980210453271866,
+      "sadness": 0.05388443544507027,
+      "disgust": 0.02325923927128315,
+      "anger": 0.005602249875664711,
+      "fear": 0.0034411668311804533,
+      "surprise": 0.0018615194130688906
+    },
+    "tip": "The user feels joy. Give a short and helpful piece of advice in one or two sentences.",
+    "timestamp": "2025-10-30T14:35:04.360596Z"
+  },
+  {
+    "text": "I made myself a cup of coffee and sat by the window watching the rain. It was quiet and peaceful.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.8021494150161743,
+      "neutral": 0.10980210453271866,
+      "sadness": 0.05388443544507027,
+      "disgust": 0.02325923927128315,
+      "anger": 0.005602249875664711,
+      "fear": 0.0034411668311804533,
+      "surprise": 0.0018615194130688906
+    },
+    "tip": "The user feels joy. Give a short and helpful piece of advice in one or two sentences.",
+    "timestamp": "2025-10-30T14:35:09.871836Z"
+  },
+  {
+    "text": "I made myself a cup of coffee and sat by the window watching the rain. It was quiet and peaceful.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.8021494150161743,
+      "neutral": 0.10980210453271866,
+      "sadness": 0.05388443544507027,
+      "disgust": 0.02325923927128315,
+      "anger": 0.005602249875664711,
+      "fear": 0.0034411668311804533,
+      "surprise": 0.0018615194130688906
+    },
+    "tip": "I sat by the window watching the rain.",
+    "timestamp": "2025-10-30T14:36:44.774587Z"
+  },
+  {
+    "text": "I made myself a cup of coffee and sat by the window watching the rain. It was quiet and peaceful.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.8021494150161743,
+      "neutral": 0.10980210453271866,
+      "sadness": 0.05388443544507027,
+      "disgust": 0.02325923927128315,
+      "anger": 0.005602249875664711,
+      "fear": 0.0034411668311804533,
+      "surprise": 0.0018615194130688906
+    },
+    "tip": "I sat by the window watching the rain.",
+    "timestamp": "2025-10-30T14:38:18.884696Z"
+  },
+  {
+    "text": "I made myself a cup of coffee and sat by the window watching the rain. It was quiet and peaceful.",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.8021494150161743,
+      "neutral": 0.10980210453271866,
+      "sadness": 0.05388443544507027,
+      "disgust": 0.02325923927128315,
+      "anger": 0.005602249875664711,
+      "fear": 0.0034411668311804533,
+      "surprise": 0.0018615194130688906
+    },
+    "tip": "I sat by the window watching the rain.",
+    "timestamp": "2025-10-30T14:41:48.400373Z"
+  },
+  {
+    "text": "Today felt really heavy. I couldn’t focus on anything, and even small tasks seemed too much. I just wanted to lie down and be alone.",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.943278968334198,
+      "disgust": 0.019512450322508812,
+      "fear": 0.018904266878962517,
+      "neutral": 0.01108649279922247,
+      "anger": 0.0037242830730974674,
+      "surprise": 0.0021508224308490753,
+      "joy": 0.0013428031234070659
+    },
+    "tip": "User feels sadness.\nContext: Today felt really heavy. I couldn’t focus on anything, and even small tasks seemed too much. I just wanted to lie down and be alone.\nWrite one short empathetic advice and one actionable step tailored to the user's emotion.\nKeep it under 30 words.\nExamples:\n- joy → \"Celebrate the moment; share your happiness with someone you care about.\"\n- sadness → \"Acknowledge your feelings; take a short walk or listen to calming music.\"\n- anger → \"Pause and breathe; write down what upset you before reacting.\"\n- anxiety → \"Try deep breathing; focus on what you can control today.\"\n- loneliness → \"Reach out to a friend or join an online community that shares your interests.\"\nNow, give the advice for this case:",
+    "timestamp": "2025-10-30T14:45:17.938374Z"
+  },
+  {
+    "text": "Today felt really heavy. I couldn’t focus on anything, and even small tasks seemed too much. I just wanted to lie down and be alone.",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.943278968334198,
+      "disgust": 0.019512450322508812,
+      "fear": 0.018904266878962517,
+      "neutral": 0.01108649279922247,
+      "anger": 0.0037242830730974674,
+      "surprise": 0.0021508224308490753,
+      "joy": 0.0013428031234070659
+    },
+    "tip": "sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\"",
+    "timestamp": "2025-10-30T14:48:19.059681Z"
+  },
+  {
+    "text": "Today felt really heavy. I couldn’t focus on anything, and even small tasks seemed too much. I just wanted to lie down and be alone.",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.943278968334198,
+      "disgust": 0.019512450322508812,
+      "fear": 0.018904266878962517,
+      "neutral": 0.01108649279922247,
+      "anger": 0.0037242830730974674,
+      "surprise": 0.0021508224308490753,
+      "joy": 0.0013428031234070659
+    },
+    "tip": "sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\"",
+    "timestamp": "2025-10-30T14:48:38.914272Z"
+  },
+  {
+    "text": "I looked into their eyes and felt a warmth I can’t describe. It’s like everything around us faded for a moment.",
+    "emotion": "neutral",
+    "scores": {
+      "neutral": 0.30623865127563477,
+      "sadness": 0.2498825341463089,
+      "disgust": 0.19353199005126953,
+      "surprise": 0.16652989387512207,
+      "fear": 0.0662914589047432,
+      "anger": 0.0139778358861804,
+      "joy": 0.003547609318047762
+    },
+    "tip": "Focus on what you can control today.   Reach out to a friend or join an online community.",
+    "timestamp": "2025-10-30T14:49:46.858980Z"
+  },
+  {
+    "text": "Tomorrow is my big presentation. My heart keeps racing, and I can’t stop thinking about everything that could go wrong.",
+    "emotion": "fear",
+    "scores": {
+      "fear": 0.41681861877441406,
+      "surprise": 0.29227766394615173,
+      "anger": 0.14820167422294617,
+      "sadness": 0.07235423475503922,
+      "neutral": 0.05413983389735222,
+      "joy": 0.013174323365092278,
+      "disgust": 0.003033675253391266
+    },
+    "tip": "Fear  \"Celebrate the moment; share your happiness with someone you care about.\" Fear  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Fear  \"Anxiety  \"Try deep breathing; focus on what you can control today.\" Fear  \"Anxiety  \"Try deep breathing; focus on what you can control today.\" Fear  \"Anxiety  \"Try deep breathing; focus on what you can control today.\"",
+    "timestamp": "2025-10-30T14:50:53.756435Z"
+  },
+  {
+    "text": "iam down today and planning to sleep whole night",
+    "emotion": "neutral",
+    "scores": {
+      "neutral": 0.5231471657752991,
+      "sadness": 0.3501255512237549,
+      "joy": 0.0649869367480278,
+      "surprise": 0.04741297662258148,
+      "fear": 0.007587748114019632,
+      "anger": 0.004504198674112558,
+      "disgust": 0.0022354344837367535
+    },
+    "tip": "If you're feeling down, take a short walk or listen to calming music.",
+    "timestamp": "2025-10-31T09:12:12.766587Z"
+  },
+  {
+    "text": "from transformers import pipeline\n\nclass TipGenerator:\n    def __init__(self):\n        self.pipe = pipeline(\n            \"text2text-generation\",\n            model=\"google/flan-t5-base\",\n            device=-1\n        )\n\n    def generate_tip(self, emotion, excerpt):\n        prompt = f\"\"\"\nUser feels {emotion}.\nContext: {excerpt}\nWrite one short empathetic advice and one actionable step tailored to the user's emotion.\nKeep it under 30 words.\nExamples:\n- joy → \"Celebrate the moment; share your happiness with someone you care about.\"\n- sadness → \"Acknowledge your feelings; take a short walk or listen to calming music.\"\n- anger → \"Pause and breathe; write down what upset you before reacting.\"\n- anxiety → \"Try deep breathing; focus on what you can control today.\"\n- loneliness → \"Reach out to a friend or join an online community that shares your interests.\"\nNow, give the advice for this case:\n\"\"\"\n        out = self.pipe(\n            prompt.strip(),\n            max_length=60,\n            do_sample=True,\n            temperature=0.7,\n            top_p=0.9\n        )\n        return out[0][\"generated_text\"].strip()\n\ntg = TipGenerator()\nprint(tg.generate_tip(\"joy\", \"I made myself a cup of coffee and sat by the window watching the rain. It was quiet and peaceful.\"))",
+    "emotion": "neutral",
+    "scores": {
+      "neutral": 0.2573834955692291,
+      "joy": 0.2571708858013153,
+      "sadness": 0.22119686007499695,
+      "anger": 0.1345381736755371,
+      "surprise": 0.09266483038663864,
+      "fear": 0.03299872949719429,
+      "disgust": 0.0040470389649271965
+    },
+    "tip": "Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"Acknowledge your feelings; take a short walk or listen to calming music.\" Feelings  \"",
+    "timestamp": "2025-10-31T09:13:02.923363Z"
+  },
+  {
+    "text": "iam feeling down and gonna sleep whole night",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.992077112197876,
+      "neutral": 0.002612688113003969,
+      "surprise": 0.0019059462938457727,
+      "joy": 0.0016488730907440186,
+      "fear": 0.0006733975023962557,
+      "anger": 0.0006208732957020402,
+      "disgust": 0.00046114265569485724
+    },
+    "tip": "sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\" sadness",
+    "timestamp": "2025-10-31T09:13:45.818789Z"
+  },
+  {
+    "text": "iam feeling down and gonna sleep whole night",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.992077112197876,
+      "neutral": 0.002612688113003969,
+      "surprise": 0.0019059462938457727,
+      "joy": 0.0016488730907440186,
+      "fear": 0.0006733975023962557,
+      "anger": 0.0006208732957020402,
+      "disgust": 0.00046114265569485724
+    },
+    "tip": "Feeling down and gonna sleep whole night.",
+    "timestamp": "2025-10-31T09:15:17.894562Z"
+  },
+  {
+    "text": "iam cheeerful and gonna play a game",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.9340762495994568,
+      "surprise": 0.030071640387177467,
+      "neutral": 0.025853201746940613,
+      "sadness": 0.006344782654196024,
+      "anger": 0.002280671615153551,
+      "disgust": 0.0007712708320468664,
+      "fear": 0.0006022948073223233
+    },
+    "tip": "Joy  \"Celebrate the moment; share your happiness with someone you care about.\"",
+    "timestamp": "2025-10-31T09:15:42.297835Z"
+  },
+  {
+    "text": "i feel drained",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.9912133812904358,
+      "neutral": 0.002375248586758971,
+      "anger": 0.002349330810829997,
+      "surprise": 0.001409664866514504,
+      "joy": 0.001343396957963705,
+      "disgust": 0.0008916794322431087,
+      "fear": 0.0004173278866801411
+    },
+    "tip": "Feeling drained can be a sign of sadness. If you feel drained, take a short walk or listen to calming music.",
+    "timestamp": "2025-11-07T07:47:12.172753Z"
+  },
+  {
+    "text": "i need rest",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.9746841192245483,
+      "joy": 0.012031731195747852,
+      "neutral": 0.005136062391102314,
+      "fear": 0.002782650990411639,
+      "anger": 0.002693807939067483,
+      "surprise": 0.002303293440490961,
+      "disgust": 0.00036844154237769544
+    },
+    "tip": "sadness  \"Acknowledge your feelings; take a short walk or listen to calming music.\"",
+    "timestamp": "2025-11-07T07:49:01.631956Z"
+  },
+  {
+    "text": "i need rest",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.9746841192245483,
+      "joy": 0.012031731195747852,
+      "neutral": 0.005136062391102314,
+      "fear": 0.002782650990411639,
+      "anger": 0.002693807939067483,
+      "surprise": 0.002303293440490961,
+      "disgust": 0.00036844154237769544
+    },
+    "tip": "I need to rest.",
+    "timestamp": "2025-11-07T07:53:03.324809Z"
+  },
+  {
+    "text": "i need rest",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.9746841192245483,
+      "joy": 0.012031731195747852,
+      "neutral": 0.005136062391102314,
+      "fear": 0.002782650990411639,
+      "anger": 0.002693807939067483,
+      "surprise": 0.002303293440490961,
+      "disgust": 0.00036844154237769544
+    },
+    "tip": "Take a few moments to relax and let yourself rest.",
+    "timestamp": "2025-11-07T07:56:32.055892Z"
+  },
+  {
+    "text": "i need rest",
+    "emotion": "sadness",
+    "scores": {
+      "sadness": 0.9746841192245483,
+      "joy": 0.012031731195747852,
+      "neutral": 0.005136062391102314,
+      "fear": 0.002782650990411639,
+      "anger": 0.002693807939067483,
+      "surprise": 0.002303293440490961,
+      "disgust": 0.00036844154237769544
+    },
+    "tip": "One simple actionable step to improve the user's mood is to take a few deep breaths and take a few deep breaths.",
+    "timestamp": "2025-11-07T07:58:52.192573Z"
+  },
+  {
+    "text": "i am happy",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.988410472869873,
+      "sadness": 0.004944988526403904,
+      "surprise": 0.004076122306287289,
+      "anger": 0.001224839361384511,
+      "neutral": 0.0008501125848852098,
+      "fear": 0.0003037824353668839,
+      "disgust": 0.00018963430193252861
+    },
+    "tip": "One simple actionable step to improve the user's mood is to take a moment to reflect on the positive aspects of their day. This can be done by taking a few moments to reflect on the positive aspects of their day, such as getting enough sleep, eating a healthy diet,",
+    "timestamp": "2025-11-07T07:59:10.371858Z"
+  },
+  {
+    "text": "so peaceful",
+    "emotion": "joy",
+    "scores": {
+      "joy": 0.9728742241859436,
+      "neutral": 0.01077518705278635,
+      "sadness": 0.007331403438001871,
+      "anger": 0.005222616717219353,
+      "surprise": 0.002116529969498515,
+      "disgust": 0.0011628781212493777,
+      "fear": 0.0005171154625713825
+    },
+    "tip": "One simple actionable step to improve the user's mood is to take a deep breath and take a few deep breaths.",
+    "timestamp": "2025-11-07T08:00:11.674384Z"
+  }
+]
